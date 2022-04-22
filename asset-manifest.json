@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/codekart-team-member/static/css/main.9af650b3.css",
+    "main.js": "/codekart-team-member/static/js/main.95724a66.js",
+    "static/js/787.97203b37.chunk.js": "/codekart-team-member/static/js/787.97203b37.chunk.js",
+    "static/media/brand2.png": "/codekart-team-member/static/media/brand2.7213745c5ab0721bc390.png",
+    "static/media/card7.png": "/codekart-team-member/static/media/card7.fd31df8f7fc001bbe643.png",
+    "static/media/brand12.png": "/codekart-team-member/static/media/brand12.e4f65ce8ac5e7a45b2dd.png",
+    "static/media/brand11.png": "/codekart-team-member/static/media/brand11.a864a8ce4de4b39a63b0.png",
+    "index.html": "/codekart-team-member/index.html",
+    "main.9af650b3.css.map": "/codekart-team-member/static/css/main.9af650b3.css.map",
+    "main.95724a66.js.map": "/codekart-team-member/static/js/main.95724a66.js.map",
+    "787.97203b37.chunk.js.map": "/codekart-team-member/static/js/787.97203b37.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9af650b3.css",
+    "static/js/main.95724a66.js"
+  ]
+}
